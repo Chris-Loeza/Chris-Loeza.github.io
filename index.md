@@ -17,7 +17,7 @@
     *Lab 1
        
         Lab 1, part 1 was my first experience ever coding something. I was still confused on how
-        everything really worked but I wanted to learn. When I was able to the message to display
+        everything really worked but I wanted to learn. When I was able to display the message
         on my terminal, it was a good feeling of accomplishment. Overall it was a fun introduction.
 
     *Lab 4
