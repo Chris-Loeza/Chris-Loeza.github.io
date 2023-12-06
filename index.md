@@ -12,13 +12,13 @@
 
         Lab 6, part 2 because I already knew how blackjack worked. I was very interested on how
         the code would work to count the value of the cards. Writing the functions to count the
-        points was chellenging but overall I thought it was pretty cool once it worked.
+        the points were challenging but overall I thought it was pretty cool once it worked.
 
     *Lab 1
        
         Lab 1, part 1 was my first experience ever coding something. I was still confused on how
         everything really worked but I wanted to learn. When I was able to the message to display
-        on my terminal, it was a good feeling of acomplishment. Overall it was a fun introduction.
+        on my terminal, it was a good feeling of accomplishment. Overall it was a fun introduction.
 
     *Lab 4
        
